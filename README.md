@@ -38,7 +38,7 @@ The solution includes a built-in test case with:
 ## Files Generated
 - `sql_output.csv`: Results from pure SQL solution
 - `pandas_output.csv`: Results from Pandas solution
-- `company_xyz.db`: SQLite database with sample data
+- `company.db`: SQLite database with sample data
 
 ## Technical Notes
 - Uses SQLite3 for database operations (built into Python)
